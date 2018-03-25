@@ -1,0 +1,23 @@
+    
+body{
+  font-family: 'Lato', sans-serif;
+ text-align: center;
+  background-color: #f2e3c6;
+}
+
+mynav{
+ font-size: 20px; 
+  
+}
+
+
+mynav a{
+ text-decoration: none; 
+  color: #86615C;
+
+  
+}
+mynav li {
+    display: inline;
+  padding: 50px;
+}
