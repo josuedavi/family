@@ -3,13 +3,21 @@ body{
 
   background-color: #f2e3c6;
 }
-
+p{
+ font-size: 18px; 
+}
 mynav{
  font-size: 20px; 
   
 }
 
+h2{
+  color: #D48600;
+}
+h4{
+color: #3A66AC;
 
+}
 mynav a {
  text-decoration: none; 
   color: #86615C;
