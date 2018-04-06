@@ -1,23 +1,52 @@
     
 body{
   font-family: 'Lato', sans-serif;
- text-align: center;
-  background-color: #f2e3c6;
+ 
+  background-color: #efebe9 ;
 }
 
-mynav{
+#nav{
  font-size: 20px; 
   
 }
-
-
-mynav a{
+#nav a{
  text-decoration: none; 
-  color: #86615C;
+  color: white;
 
   
 }
-mynav li {
+#nav li {
     display: inline;
   padding: 50px;
+}
+
+b{
+color: #D48600;
+}
+h2,h4{
+color: #3A66AC;
+}
+
+#nav a{
+ text-decoration: none; 
+
+
+  
+}
+#nav li, #footer li {
+    display: inline;
+  padding: 50px;
+}
+ul{
+  list-style-type: none; 
+  padding: 0;
+}
+#footer li{
+ display: inline;
+padding: 50px;
+}
+#footer a{
+ text-decoration:none ; 
+  color: white;
+  
 }

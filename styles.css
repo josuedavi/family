@@ -2,16 +2,27 @@
 body{
   font-family: 'Lato', sans-serif;
  text-align: center;
-  background-color: #f2e3c6;
+   background-color: #efebe9 ;
   margin-top: 100px;
 }
-
-mynav{
- font-size: 20px; 
-  
+.bl{
+  color: #000;
 }
 
+  
 
+.question{
+color: #3A66AC;
+}
+h1,h3{
+color: #3A66AC;
+}
+p{
+color: #000;
+}
+b{
+color: #D48600;
+}
 #nav a{
  text-decoration: none; 
   color: white;
